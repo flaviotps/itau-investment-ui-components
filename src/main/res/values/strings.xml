@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stocks_quantity">Quantidade: %1$s</string>
+    <string name="total">Total: %1$s</string>
+    <string name="unit_price">Valor unitário: %1$s</string>
+    <string name="investment_total">Total:</string>
+    <string name="go_to_product">Ir para produtos</string>
+    <string name="stock_arrow_rotation">Stock Arrow Rotation</string>
+    <string name="stock_arrow">Stock Arrow</string>
+</resources>
